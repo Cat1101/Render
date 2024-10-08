@@ -1,0 +1,3 @@
+C:/Users/kotk4/CLionProjects/Render/cmake-build-debug/CMakeFiles/Render.dir
+C:/Users/kotk4/CLionProjects/Render/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kotk4/CLionProjects/Render/cmake-build-debug/CMakeFiles/rebuild_cache.dir
